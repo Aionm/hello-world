@@ -24,14 +24,14 @@ tool, point at this directory.
 npm (after publishing):
 
 ```sh
-npm install @aionm/hello-world
+npm install @xxxzhou/hello-world
 ```
 
 then add the bundle in DSH **Plugins**.
 
 ## Uninstall
 
-Disable the plugin row or remove the `@aionm/hello-world` bundle in **Plugins**.
+Disable the plugin row or remove the `@xxxzhou/hello-world` bundle in **Plugins**.
 The `greet` tool disappears as soon as the bundle is unloaded.
 
 ## License
