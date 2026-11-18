@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Hello world",
+    "description": "Adds a greet tool the agent can call to return a friendly greeting. Ask the agent to greet someone by name to use it."
+  }
+}
